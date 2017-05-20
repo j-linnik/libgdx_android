@@ -1,0 +1,107 @@
+
+animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clock
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 0
+clock
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 1
+
+animation2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clock
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 2
+clock
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 3
+
+animation3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clock
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 4
+clock
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 5
+
+animation4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clock
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 6
+clock
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 7
+
+animation5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clock
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 8
+clock
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: 9
+
+animation6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sample/example
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1

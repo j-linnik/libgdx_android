@@ -1,0 +1,322 @@
+
+ynfiles.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg/menu_bg
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+bg/n_cat_bg
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+
+ynfiles2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg/q_bg
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+bg/y_cat_bg
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+
+ynfiles3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btns/n_btn_checked
+  rotate: false
+  xy: 1, 307
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+btns/n_btn_down
+  rotate: false
+  xy: 1, 205
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+btns/n_btn_up
+  rotate: false
+  xy: 403, 307
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+btns/y_btn_checked
+  rotate: false
+  xy: 1, 103
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+btns/y_btn_down
+  rotate: false
+  xy: 403, 205
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+btns/y_btn_up
+  rotate: false
+  xy: 1, 1
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+btns/arrow_btn_down
+  rotate: false
+  xy: 805, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+btns/arrow_btn_up_check
+  rotate: false
+  xy: 403, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+ynfiles4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+texts/animated/text
+  rotate: false
+  xy: 1, 919
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 0
+texts/animated/text
+  rotate: false
+  xy: 1, 817
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 1
+texts/animated/text
+  rotate: false
+  xy: 403, 919
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 10
+texts/animated/text
+  rotate: false
+  xy: 1, 715
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 11
+texts/animated/text
+  rotate: false
+  xy: 403, 817
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 12
+texts/animated/text
+  rotate: false
+  xy: 1, 613
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 13
+texts/animated/text
+  rotate: false
+  xy: 403, 715
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 14
+texts/animated/text
+  rotate: false
+  xy: 1, 511
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 15
+texts/animated/text
+  rotate: false
+  xy: 403, 613
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 16
+texts/animated/text
+  rotate: false
+  xy: 1, 409
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 17
+texts/animated/text
+  rotate: false
+  xy: 403, 511
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 18
+texts/animated/text
+  rotate: false
+  xy: 1, 307
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 19
+texts/animated/text
+  rotate: false
+  xy: 403, 409
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 2
+texts/animated/text
+  rotate: false
+  xy: 1, 205
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 20
+texts/animated/text
+  rotate: false
+  xy: 403, 307
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 21
+texts/animated/text
+  rotate: false
+  xy: 1, 103
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 22
+texts/animated/text
+  rotate: false
+  xy: 403, 205
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 23
+texts/animated/text
+  rotate: false
+  xy: 1, 1
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 3
+texts/animated/text
+  rotate: false
+  xy: 403, 103
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 4
+texts/animated/text
+  rotate: false
+  xy: 403, 1
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 5
+
+ynfiles5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+texts/animated/text
+  rotate: false
+  xy: 1, 103
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 6
+texts/animated/text
+  rotate: false
+  xy: 1, 1
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 7
+texts/animated/text
+  rotate: false
+  xy: 403, 103
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 8
+texts/animated/text
+  rotate: false
+  xy: 403, 1
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: 9
+
+ynfiles6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+texts/n_text
+  rotate: false
+  xy: 1, 255
+  size: 400, 600
+  orig: 400, 600
+  offset: 0, 0
+  index: -1
+texts/y_text
+  rotate: false
+  xy: 403, 255
+  size: 400, 600
+  orig: 400, 600
+  offset: 0, 0
+  index: -1
+texts/q_text
+  rotate: false
+  xy: 1, 103
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+texts/menu_text_press
+  rotate: false
+  xy: 1, 1
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+
+ynfiles7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+texts/main_text
+  rotate: false
+  xy: 1, 1
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
